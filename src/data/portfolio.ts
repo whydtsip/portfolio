@@ -79,7 +79,7 @@ export const portfolio = {
       fullName: "Municipal Agriculture Office Certificate Generation and Records Management System",
       type: "Government Information System · Full-Stack Web",
       platform: "desktop",
-      status: "Deployed · Active Use",
+      status: "Live · Active Use",
       statusTone: "active",
       role: "Solo Full-Stack Developer · UI/UX · Deployment",
       summary:
@@ -98,9 +98,9 @@ export const portfolio = {
         "Farmer Registry",
         "Print & Download",
       ],
-      stack: ["Full-Stack", "SQLite / Database Integration", "Tailscale", "UI/UX"],
-      note: "Internal deployment · Repository coming soon",
-      live: "",
+      stack: ["Full-Stack", "SQLite / Database Integration", "UI/UX"],
+      note: "Publicly deployed on Vercel · Repository coming soon",
+      live: "https://mao-certgen.vercel.app",
       github: "",
       featured: true,
       gallery: [
